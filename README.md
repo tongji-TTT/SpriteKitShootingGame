@@ -1,5 +1,5 @@
 # SpriteKitShootingGame 1.0 #
-This is a small 2D shooter game implemented with SpriteKit for 同济
+This is a small 2D shooter game implemented with SpriteKit for 同济。  
 这是一个用SpriteKit实现的2D射击小游戏,用于同济大学移动应用开发课程期末项目。  
 ## Introduction ##
 感谢up主 Leonard Chan 的教程与素材  
