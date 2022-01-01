@@ -1,0 +1,2 @@
+# SpriteKitShootingGame
+这是一个用SpriteKit实现的2D射击小游戏
